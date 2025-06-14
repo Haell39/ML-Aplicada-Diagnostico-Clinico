@@ -5,7 +5,7 @@ import zipfile
 # Link do dataset: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 dataset_name = 'uciml/breast-cancer-wisconsin-data'
 
-download_path = './data'
+download_path = '../data'
 
 # cria a pasta "data" se não existir
 if not os.path.exists(download_path):
