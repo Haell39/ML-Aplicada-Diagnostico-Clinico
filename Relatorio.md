@@ -1,4 +1,4 @@
-### **Relatório de Projeto: Análise e Modelagem de Dados de Diagnóstico de Câncer de Mama**
+### **Relatório do Projeto: Análise e Modelagem de Dados para Diagnóstico de Câncer de Mama**
 
  O projeto teve como objetivo principal a compreensão do conjunto de dados e o desenvolvimento de modelos preditivos para auxiliar no diagnóstico.
 
